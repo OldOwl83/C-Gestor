@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1640574585 source:c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"definiciones.h"
+	"lib_archivos.h"
+	"lib_auxiliares.h"
+
+1640572905 c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\definiciones.h
+
+1640572994 c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_archivos.h
+
+1640573048 c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_auxiliares.h
+	"definiciones.h"
+
+1640574738 source:c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/definiciones.h"
+	"lib/lib_archivos.h"
+	"lib/lib_bd.h"
+	"lib/lib_clientes.h"
+	"lib/lib_categorias.h"
+	"lib/lib_modificadores.h"
+	"lib/lib_ventas.h"
+	"lib/lib_auxiliares.h"
+
+1640573104 c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_bd.h
+	"definiciones.h"
+
+1640573204 c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_clientes.h
+	"definiciones.h"
+
+1640573152 c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_categorias.h
+
+1640573246 c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_modificadores.h
+	"definiciones.h"
+
+1640573284 c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_ventas.h
+	"definiciones.h"
+
+1640573525 source:c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib_auxiliares.h"
+
+1640573561 source:c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_bd.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"lib_bd.h"
+	"lib_auxiliares.h"
+	"lib_clientes.h"
+	"lib_ventas.h"
+	"lib_categorias.h"
+	"lib_modificadores.h"
+
+1640573596 source:c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_categorias.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"definiciones.h"
+	"lib_categorias.h"
+	"lib_modificadores.h"
+	"lib_bd.h"
+	"lib_auxiliares.h"
+
+1640573634 source:c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib_clientes.h"
+	"lib_bd.h"
+	"lib_auxiliares.h"
+	"lib_categorias.h"
+	"lib_modificadores.h"
+
+1640573670 source:c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_modificadores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib_modificadores.h"
+	"lib_categorias.h"
+	"lib_auxiliares.h"
+	"lib_bd.h"
+
+1640573715 source:c:\users\mauro\documents\mauro\unsam - programación\ejercicios de programación propios\c-gestor\lib\lib_ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"definiciones.h"
+	"lib_ventas.h"
+	"lib_clientes.h"
+	"lib_bd.h"
+	"lib_auxiliares.h"
+
